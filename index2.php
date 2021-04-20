@@ -1,3 +1,6 @@
+<?php 
+include("connection.php");
+?>
 <!DOCTYPE html>
 <html>
 	<head>
@@ -13,6 +16,7 @@
 			}
 			
 			</style>
+			
 
 		<h1>
 			<center><b><i>ACCRA SHOPPING CENTER</i></b></h1></center>
